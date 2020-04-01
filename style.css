@@ -1,0 +1,19 @@
+#resetButton {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+#gridContainer {
+    display: grid;
+    height: 500px;
+    width: 500px;
+    border-color: darkgray;
+    border-style: solid;
+    grid-gap: 1px;
+    margin: 0 auto;
+}
+
+.gridCell {
+    background-color: #f1f3f4;
+}
